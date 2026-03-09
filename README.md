@@ -1,7 +1,3 @@
-It looks like the text formatting went a bit haywire because of the "tree" structure and the way Markdown handles line breaks. It turned into one giant, hard-to-read wall of text.
-
-Here is the cleaned-up version that will look beautiful on your GitHub profile. Copy and paste this exactly:
-
 AI Translator & Linguistic Assistant 🤖🌍
 A full-stack, "Agentic" translation tool that uses Large Language Models (LLMs) to provide high-fidelity translations while extracting deep grammatical and cultural insights.
 
