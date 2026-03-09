@@ -16,7 +16,7 @@ function App(){
         setKeyMeanings([]);
 
         try {
-            const response= await fetch("http://localhost:8000/api/translate",{
+            const response= await fetch("https://ai-translator-tool-b3oa.onrender.com",{
                 method:'POST',
                 headers : {
                     'Content-Type': 'application/json',
